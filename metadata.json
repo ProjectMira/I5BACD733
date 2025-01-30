@@ -55,6 +55,12 @@
           "source": "ann_transfer/P1/I44F6BF0B/layers/8956/Tibetan_Segment-88B1.json",
           "transfered": "ann_transfer/P2/I5BACD733/layers/94BE/Tibetan_Segment-88B1.json"
         }
+      ],
+      [
+        {
+          "source": "ann_transfer/P1/I44F6BF0B/layers/8956/Tibetan_Segment-88B1.json",
+          "transfered": "ann_transfer/P2/I5BACD733/layers/94BE/Tibetan_Segment-88B1.json"
+        }
       ]
     ]
   },
